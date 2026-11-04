@@ -75,6 +75,12 @@ Requirements Documentation for a Student Task Tracker
 
 Documentation only. Application implementation has not started.
 
+## Author
+Ifra Raza
+Course: SRE
 
+## Contributing
+
+Create a documentation branch, edit README.md, commit changes, push the branch, and open a pull request.
 
 
